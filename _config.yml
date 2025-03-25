@@ -1,8 +1,13 @@
 title: "Python Office"
-description: "Python solutions for Micforoft Office problems."
+description: "Python solutions for Microsoft Office problems."
 baseurl: "/"
 show_downloads: false
 
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-  - jekyll-remote-theme 
+  - jekyll-remote-theme
+
+# GH profile picture for now
+# avatar: https://avatars.githubusercontent.com/u/86951883
+
+permalink: /:title/
